@@ -21,9 +21,9 @@ body{
 }
 .banner-title{
     color: #272727;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 700;
-    line-height: 75px;
+    line-height: 65px;
     margin-bottom: 30px;
 }
 .banner-text{
@@ -53,9 +53,9 @@ body{
 }
 
 .banner-image img{
-    width: 500px;
-    height: 600px;
-    margin-bottom: -65px;
+    width: 400px;
+    height: 500px;
+    margin-bottom: -100px;
     padding-right: 100px;
 }
 
@@ -90,26 +90,26 @@ body{
 }
 .card-one{
     background: rgba(167, 33, 98, 0.15);
-    height: 450px;
-    width: 380px;
+    height: 350px;
+    width: 280px;
     border-radius: 300px 300px 0px 0px; 
 
 }
 .card-two{
     background: rgba(5, 151, 160, 0.15);
-    height: 450px;
-    width: 380px;
+    height: 350px;
+    width: 280px;
     border-radius: 300px 300px 0px 0px;
 }
 .card-three{
     background: rgba(71, 125, 17, 0.15);
-    height: 450px;
-    width: 380px;
+    height: 350px;
+    width: 280px;
     border-radius: 300px 300px 0px 0px;
 }
 .card-one img, .card-two img, .card-three img{
-    height: 350px;
-    width: 300px;
+    height: 250px;
+    width: 200px;
     padding-top: 100px;
     padding-left: 30px;
 }
