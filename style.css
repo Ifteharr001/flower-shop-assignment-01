@@ -8,9 +8,11 @@ body{
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
 }
- /* This Is Manu CSS
-====================== */
-.main-container{
+
+
+ /* This Is Header CSS 
+ =================== */
+ .main-container{
     background-color: #E55473;
     padding: 20px;
     list-style: none;
@@ -32,9 +34,6 @@ body{
     cursor: pointer;
 }
 
-
- /* This Is Header CSS 
- =================== */
 .banner-section{
     background-color: rgba(229, 84, 115, 0.10);
     display: flex;
@@ -85,13 +84,13 @@ body{
 /* This Is Featured Section CSS
 ================================ */
 
-.fretured-area{
+.featured-area{
     padding: 100px 0px;
 }
 .featured-section{
     text-align: center;
 }
-.featured-tite h1{
+.featured-title h1{
     color: #272727;
     font-size: 40px;
     font-weight: 400px;
